@@ -9,12 +9,10 @@ Expected Graduation: **May 2028**
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student interested in software engineering,
-artificial intelligence, Python development, C++ programming,
+I'm a Computer Science student interested in artificial intelligence, Python development, C++ programming,
 web applications, and data structures and algorithms.
 
 - 🎓 Student at Penn State Abington
-- 💻 Interested in Software Engineering
 - 🤖 Learning Artificial Intelligence
 - 🐍 Python Developer
 - ⚙️ C++ Programming
@@ -60,12 +58,16 @@ web applications, and data structures and algorithms.
 A web application that analyzes online news articles and displays
 automated predictions with confidence scores.
 
+
+
 ### Features
 
 - Interactive Streamlit interface
 - URL-based article analysis
 - Text processing and data handling
 - Git/GitHub version control
+
+<img width="915" height="435" alt="image" src="https://github.com/user-attachments/assets/6d8ad84f-0a82-4d97-a62c-0c271ab0199c" />
 
 [View Project on GitHub](https://github.com/jjm8227/AI-Fake-News-Detector-Python-Website-Project)
 
@@ -87,6 +89,8 @@ e-commerce functionality.
 - File I/O integration
 - Input validation
 
+<img width="306" height="197" alt="image" src="https://github.com/user-attachments/assets/f6626f5e-7d91-4e8f-9ab9-18180c6ff1dd" />
+
 [View Project on GitHub](https://github.com/jjm8227/Project-1---James-M)
 
 `Python` `OOP` `File I/O` `Validation`
@@ -107,7 +111,11 @@ automated sales-tax calculations.
 - Receipt generation
 - Repeat-order functionality
 
+<img width="447" height="325" alt="image" src="https://github.com/user-attachments/assets/d6e1b0ea-cc9c-4258-aa28-8c579c61a228" />
+
 [View Project on GitHub](https://github.com/jjm8227/Hibachi-Ordering-System-Python-Application)
+
+
 
 `Python` `Functions` `Loops` `Dictionaries`
 
@@ -133,7 +141,6 @@ Expected Graduation: **May 2028**
 
 - Artificial Intelligence
 - Advanced Python Development
-- Software Engineering Best Practices
 - Data Structures & Algorithms
 
 ---
