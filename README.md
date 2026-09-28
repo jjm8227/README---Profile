@@ -149,3 +149,4 @@ Expected Graduation: **May 2028**
 
 - GitHub: [jjm8227](https://github.com/jjm8227)
 - Email: jjm8227@psu.edu
+- Phone: 215-375-1741
