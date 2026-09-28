@@ -1,91 +1,144 @@
-Hi, I’m James Macartney.
+# Hi, I'm James Macartney 👋
 
-I’m a Computer Science student at Pennsylvania State University – Abington pursuing a B.S. in Computer Science with an expected graduation date of May 2028.
+### Computer Science Student at Pennsylvania State University – Abington
 
-I’m interested in:
+**B.S. in Computer Science**  
+Expected Graduation: **May 2028**
 
-Software Engineering
-Artificial Intelligence
-Python Development
-C++ Programming
-Web Applications
-Data Structures & Algorithms
+---
 
-Technical Skills
+## 👨‍💻 About Me
 
-Languages: Python, C++
+I'm a Computer Science student interested in software engineering,
+artificial intelligence, Python development, C++ programming,
+web applications, and data structures and algorithms.
 
-Tools & Technologies: Git, GitHub, Streamlit
+- 🎓 Student at Penn State Abington
+- 💻 Interested in Software Engineering
+- 🤖 Learning Artificial Intelligence
+- 🐍 Python Developer
+- ⚙️ C++ Programming
+- 🌐 Web Applications
+- 📚 Data Structures & Algorithms
 
-Concepts: Object-Oriented Programming, Data Structures & Algorithms, File I/O, Input Validation
+---
 
-Featured Projects
+## 🛠️ Technical Skills
 
-🤖 AI Fake News Detector
+### Languages
 
-Python · Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-A web application that analyzes online news articles and displays automated predictions with confidence scores.
+### Tools & Technologies
 
-Highlights
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Interactive Streamlit user interface
-URL-based article analysis
-Text processing and data handling
-Git/GitHub version control
+### Concepts
 
-Repository:
-github.com/jjm8227/AI-Fake-News-Detector-Python-Website-Project
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- File I/O
+- Input Validation
 
-⸻
+### Additional Tools
 
-🛒 E-Commerce Shopping System
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Dreamweaver
 
-Python · Object-Oriented Programming
+---
 
-A modular shopping-cart application that simulates real-world e-commerce functionality.
+# 📁 Featured Projects
 
-Highlights
+## 🤖 AI Fake News Detector
 
-Product, user, discount, and cart objects
-Object-oriented design
-File I/O integration
-Input validation
+**Python • Streamlit**
 
-Repository:
-github.com/jjm8227/Project-1—James-M
+A web application that analyzes online news articles and displays
+automated predictions with confidence scores.
 
-⸻
+### Features
 
-🍱 Hibachi Ordering System
+- Interactive Streamlit interface
+- URL-based article analysis
+- Text processing and data handling
+- Git/GitHub version control
 
-Python
+[View Project on GitHub](https://github.com/jjm8227/AI-Fake-News-Detector-Python-Website-Project)
 
-A restaurant ordering application with receipt generation and automated sales-tax calculations.
+`Python` `Streamlit` `AI` `Web App`
 
-Highlights
+---
 
-Interactive ordering workflow
-Input validation
-Receipt generation
-Repeat-order functionality
+## 🛒 E-Commerce Shopping System
 
-Repository:
-github.com/jjm8227/Hibachi-Ordering-System-Python-Application
+**Python • Object-Oriented Programming**
 
-Education
+A modular shopping-cart application that simulates real-world
+e-commerce functionality.
 
-Pennsylvania State University – Abington
-Bachelor of Science in Computer Science
-Expected Graduation: May 2028
+### Features
 
-Currently Learning
+- Product, user, discount, and cart objects
+- Object-oriented design
+- File I/O integration
+- Input validation
 
-Artificial Intelligence
-Advanced Python Development
-Software Engineering Best Practices
-Data Structures & Algorithms
+[View Project on GitHub](https://github.com/jjm8227/Project-1---James-M)
 
-Connect With Me
+`Python` `OOP` `File I/O` `Validation`
 
-GitHub: github.com/jjm8227
+---
+
+## 🍱 Hibachi Ordering System
+
+**Python**
+
+A restaurant ordering application with receipt generation and
+automated sales-tax calculations.
+
+### Features
+
+- Interactive ordering workflow
+- Input validation
+- Receipt generation
+- Repeat-order functionality
+
+[View Project on GitHub](https://github.com/jjm8227/Hibachi-Ordering-System-Python-Application)
+
+`Python` `Functions` `Loops` `Dictionaries`
+
+---
+
+# 🎓 Education
+
+### Pennsylvania State University – Abington
+
+**Bachelor of Science in Computer Science**
+
+Expected Graduation: **May 2028**
+
+### Relevant Coursework
+
+- Data Structures & Algorithms
+- Advanced Programming (C++)
+- CS50's Introduction to Artificial Intelligence with Python
+
+---
+
+# 📖 Currently Learning
+
+- Artificial Intelligence
+- Advanced Python Development
+- Software Engineering Best Practices
+- Data Structures & Algorithms
+
+---
+
+## 📫 Contact
+
+- GitHub: [jjm8227](https://github.com/jjm8227)
+- Email: jjm8227@psu.edu
